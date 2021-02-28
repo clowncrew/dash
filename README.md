@@ -7,7 +7,7 @@ Status
 * Network: Functional
 * Sending/receiving: Functional
 * JokeNodes: WIP
-* PrivateSend: WIP (depends on JokerNodes)
+* PrivateSend: WIP (depends on JokeNodes)
 * Block Explorer: WIP
 * Mining pool: WIP
 * Website: WIP (eventually https://www.jokecoin.net)
