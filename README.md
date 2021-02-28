@@ -6,7 +6,7 @@ Status
 
 * Network: Functional
 * Sending/receiving: Functional
-* JokerNodes: WIP
+* JokeNodes: WIP
 * PrivateSend: WIP (depends on JokerNodes)
 * Block Explorer: WIP
 * Mining pool: WIP
